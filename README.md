@@ -2,4 +2,7 @@
 Coursera - The Data Scientist's Toolbox
 
 ## mój plik
-### tetriary heading... :D
+### tu bedzie:
+* opis mojego projektu
+* lista plików
+* inne...
